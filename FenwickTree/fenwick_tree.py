@@ -31,7 +31,7 @@ class FenwickTree:
             Returns:
             None. This is a constructor for a fenwick tree
 
-            Raises: Does not through an exception
+            Raises: Does not throw an exception
 
             Time complexity: O(nlogn) for constructing this data structure
         """
